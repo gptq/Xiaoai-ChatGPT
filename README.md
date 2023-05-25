@@ -1,12 +1,11 @@
 # xiaoaigpt-claude
+Xiaoai smart speaker connected to ChatGPT & Claude 
 
-小爱音箱连接类 ChatGPT 的 Claude 
+# Instructions
 
-# 使用方法
+Copy start.cmd.example to start.cmd，start start.cmd。
 
-复制 start.cmd.example 为 start.cmd，启动 start.cmd。
-
-# 特别感谢
+# Special thanks to
 
 [https://github.com/yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)
 [https://github.com/Afool4U/MIGPT](https://github.com/Afool4U/MIGPT)
