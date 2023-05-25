@@ -1,4 +1,4 @@
-# xiaoaigpt-claude
+# xiaoai-ChatGPT
 Xiaoai smart speaker connected to ChatGPT & Claude 
 
 # Instructions
