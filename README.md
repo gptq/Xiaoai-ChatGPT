@@ -6,7 +6,7 @@ Xiaoai smart speaker connected to ChatGPT & Claude
 Copy start.cmd.example to start.cmd，start start.cmd。
 
 # Contact email
-2@q3.pw
+yesweit@gmail.com
 
 # Special thanks to
 
